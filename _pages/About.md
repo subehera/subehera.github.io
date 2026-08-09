@@ -11,7 +11,10 @@ author_profile: true
   <img src="/assets/images/Display pic.JPG" alt="Nagaraju Gaddam Profile Picture">
 </figure>
 
-I am currently a Marie Skłodowska Curie Actions (Marie Curie) Cofund Doctoral Fellow at the Department of Physics and Astronomy, University of Bologna, Italy, within the interdisciplinary program on Future Earth, Climate Change and Societal Challenges. I live in Bologna, in the Emilia-Romagna region, and I’m honored to be part of the prestigious [MSCA FutureData4EU](https://site.unibo.it/futuredata4eu/en) project, funded by the European Union.
+My research primarily focuses on ultra-relativistic heavy-ion collisions at the Large Hadron Collider (LHC), aimed at exploring the complex dynamics of nuclear matter under extreme energy densities. I study how quarks and gluons interact to form the quark–gluon plasma (QGP), a state of matter believed to have existed shortly after the Big Bang.
+In addition to heavy-ion physics, my work also investigates ultra-peripheral collisions, where nuclei interact through their intense electromagnetic fields. These photon-induced processes offer unique opportunities to study the structure of nuclei and the production of vector mesons.
+
+I am also involved in jet physics in heavy-ion environments, using jets as probes to study the properties and evolution of the QGP. Through these studies, my goal is to deepen our understanding of the strong nuclear force and the behavior of matter under the most extreme conditions in the universe.
 
 ---
 
