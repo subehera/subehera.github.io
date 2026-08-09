@@ -1,6 +1,6 @@
 ---
 permalink: /About/
-title: About Mr. Gaddam
+title: About Dr. Subash
 layout: single
 classes: wide
 sitemap: true
