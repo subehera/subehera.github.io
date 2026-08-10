@@ -5,7 +5,7 @@ classes: wide
 #title: ""
 
 header:
-  overlay_image: /assets/city-pics/Rome_pic.jpg
+  overlay_image: /assets/city-pics/Rome_coloseum.png
   overlay_filter: 0.7
   caption: "Photo credit: [**Subash**](https://nagsclimate.github.io)"
   actions:
@@ -25,7 +25,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/myself.jpg
-  - title: "Mr. Nagaraju Gaddam"
+  - title: "Dr. Subash Chandra Behera"
     excerpt: "**INFN Postdoctoral Researcher** <br>
     Sapienza University of Roma, Italy. <br>
     <strong>Email:</strong> <a href='mailto:behera@rom1.infn.it'>behera@rom1.infn.it.it</a> <br>
