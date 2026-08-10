@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_image: /assets/city-pics/Rome_pic.jpg
   overlay_filter: 0.7
-  caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
+  caption: "Photo credit: [**Subash**](https://nagsclimate.github.io)"
   actions:
    # - label: "🔗 Learn more about my journey"
    #   url: "https://nagsclimate.github.io/about/"
@@ -18,7 +18,7 @@ excerpt: >
   <br><br>
   Hello, 
   <br><br>
-  I’m Nagaraju Gaddam (Nags), researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Climate Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities.
+  I am Dr. Subash Chandra Behera, an INFN Postdoctoral Fellow in Experimental High Energy Physics at the Istituto Nazionale di Fisica Nucleare (INFN), Sezione di Roma. My research focuses primarily on experimental studies of high-energy particle collisions, with an emphasis on understanding the properties and dynamics of strongly interacting matter.
   <br><br>
 
 
