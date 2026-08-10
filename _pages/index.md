@@ -5,7 +5,7 @@ classes: wide
 #title: ""
 
 header:
-  overlay_image: /assets/city-pics/Bologna.jpeg
+  overlay_image: /assets/city-pics/Rome_pic.jpg
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
@@ -16,7 +16,7 @@ header:
 
 excerpt: >
   <br><br>
-  Ciao, Welcome to the Nags Climate!
+  Hello, 
   <br><br>
   I’m Nagaraju Gaddam (Nags), researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Climate Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities.
   <br><br>
