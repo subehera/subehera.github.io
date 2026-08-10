@@ -16,6 +16,7 @@ header:
 
 excerpt: >
   <br><br>
+  <span style="font-size: 0.85em;">
   Hello, 
   <br><br>
   I am Dr. Subash Chandra Behera, an INFN Postdoctoral Fellow in Experimental High Energy Physics at the Istituto Nazionale di Fisica Nucleare (INFN), Sezione di Roma. My research focuses primarily on experimental studies of high-energy particle collisions, with an emphasis on understanding the properties and dynamics of strongly interacting matter.
@@ -25,12 +26,12 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/myself.jpg
   - title: "Mr. Nagaraju Gaddam"
-    excerpt: "**Marie Curie Doctoral Researcher** <br>
-    Department of Physics and Astronomy, <br>
-    Future Earth, Climate Change and Societal Challenges, <br>
-    University of Bologna, Italy. <br>
-    <strong>Email:</strong> <a href='mailto:nagaraju.gaddam2@unibo.it'>nagaraju.gaddam2@unibo.it</a> <br>
-    <strong>Mobile:</strong> +39 351 381 2079 (Italy)"
+    excerpt: "**INFN Postdoctoral Researcher** <br>
+    #Department of Physics and Astronomy, <br>
+    #Future Earth, Climate Change and Societal Challenges, <br>
+    Sapienza University of Roma, Italy. <br>
+    <strong>Email:</strong> <a href='mailto:behera@rom1.infn.it'>nagaraju.gaddam2@unibo.it</a> <br>
+    <strong>Mobile:</strong> +39  (Italy)"
   - image_path: /assets/logos/Picture3.png
 
 ---
