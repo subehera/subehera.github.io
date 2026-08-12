@@ -25,7 +25,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/subashPhoto1.jpeg
-    style: "width: 85%;"
+    style: "width: 55%;"
   - title: "Dr. Subash Chandra Behera"
     excerpt: "**INFN Postdoctoral Researcher** <br>
     Sapienza University of Roma, Italy <br>
