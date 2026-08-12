@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <figure style="width: 400px" class="align-right">
-  <img src="/assets/images/Display pic.JPG" alt="Nagaraju Gaddam Profile Picture">
+  <img src="/assets/images/subashPhoto1.jpeg" alt="Nagaraju Gaddam Profile Picture">
 </figure>
 
 My research primarily focuses on ultra-relativistic heavy-ion collisions at the Large Hadron Collider (LHC), aimed at exploring the complex dynamics of nuclear matter under extreme energy densities. I study how quarks and gluons interact to form the quark–gluon plasma (QGP), a state of matter believed to have existed shortly after the Big Bang.
