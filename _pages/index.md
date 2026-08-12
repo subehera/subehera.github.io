@@ -25,10 +25,11 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/subashPhoto1.jpeg
+    style: "width: 85%;"
   - title: "Dr. Subash Chandra Behera"
     excerpt: "**INFN Postdoctoral Researcher** <br>
     Sapienza University of Roma, Italy <br>
-    <strong>Email:</strong> <a href='mailto:behera@rom1.infn.it'>behera@rom1.infn.it.it</a> <br>
+    <strong>Email:</strong> <a href='mailto:behera@roma1.infn.it'>behera@roma1.infn.it.it</a> <br>
     <strong>Mobile:</strong> +39  (Italy)"
   - image_path: /assets/logos/cerncmsinfn.png
 
